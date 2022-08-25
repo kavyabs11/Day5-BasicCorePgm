@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-           CoinFlip coinFlip = new CoinFlip();
-            coinFlip.Core();
+           LeapYear leap = new LeapYear();
+            leap.Core();
         }
     }
 }
