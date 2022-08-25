@@ -1,6 +1,6 @@
 ﻿using BasicCorePgm;
 Console.WriteLine("Welcome to basic core program");
-QutandRem basic = new QutandRem();
-basic.core();
+Swap basic = new Swap();
+basic.Core();
 
 
