@@ -1,6 +1,6 @@
 ﻿using BasicCorePgm;
 Console.WriteLine("Welcome to basic core program");
-Vowel basic =  new  Vowel();
-basic.Core();
+Largest basic =  new Largest();
+basic.core();
 
 
